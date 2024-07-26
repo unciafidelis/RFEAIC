@@ -1,0 +1,27 @@
+Versus_CS,Cognitive_State,Orig_Value,Syn_Value
+CNvsSMC (phase 1),CN,85,85
+CNvsSMC (phase 1),SMC,49,85
+CNvsEMCI (phase 1),CN,85,88
+CNvsEMCI (phase 1),EMCI,88,88
+CNvsLMCI (phase 1),CN,85,85
+CNvsLMCI (phase 1),LMCI,79,85
+CNvsAD (phase 1),CN,85,85
+CNvsAD (phase 1),AD,22,85
+SMCvsEMCI (phase 1),SMC,49,88
+SMCvsEMCI (phase 1),EMCI,88,88
+SMCvsLMCI (phase 1),SMC,49,79
+SMCvsLMCI (phase 1),LMCI,79,79
+SMCvsAD (phase 1),SMC,49,49
+SMCvsAD (phase 1),AD,22,49
+EMCIvsLMCI (phase 1),EMCI,88,88
+EMCIvsLMCI (phase 1),LMCI,79,88
+EMCIvsAD (phase 1),EMCI,88,88
+EMCIvsAD (phase 1),AD,22,88
+LMCIvsAD (phase 1),LMCI,79,79
+LMCIvsAD (phase 1),AD,22,79
+CNvsMCI (phase 2),CN,134,167
+CNvsMCI (phase 2),MCI,167,167
+CNvsAD (phase 2),CN,134,134
+CNvsAD (phase 2),AD,22,134
+MCIvsAD (phase 2),MCI,167,167
+MCIvsAD (phase 2),AD,22,167
